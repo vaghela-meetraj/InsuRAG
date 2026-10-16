@@ -22,7 +22,7 @@ An Agentic Retrieval-Augmented Generation (RAG) assistant for querying and extra
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR-PRIVATE-REPO-URL>
+git clone https://github.com/vaghela-meetraj/InsuRAG
 cd InsuRAG
 ```
 

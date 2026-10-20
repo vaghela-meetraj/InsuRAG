@@ -1,4 +1,4 @@
-# InsuRAG
+# PolicyScan
 
 An Agentic Retrieval-Augmented Generation (RAG) assistant for querying and extracting information from health insurance policy documents.
 
@@ -22,8 +22,8 @@ An Agentic Retrieval-Augmented Generation (RAG) assistant for querying and extra
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vaghela-meetraj/InsuRAG
-cd InsuRAG
+git clone https://github.com/vaghela-meetraj/PolicyScan
+cd PolicyScan
 ```
 
 ### 2. Set Up Virtual Environment
